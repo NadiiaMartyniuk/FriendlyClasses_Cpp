@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1683817827 source:c:\users\nadia\desktop\c++\lab9_klasyzaprzyjaznione\main.cpp
+	<iostream>
+	"Tdom.h"
+	<string>
+
+1683817070 c:\users\nadia\desktop\c++\lab9_klasyzaprzyjaznione\include\tdom.h
+	<iostream>
+	<string>
+
+1683817117 source:c:\users\nadia\desktop\c++\lab9_klasyzaprzyjaznione\src\tdom.cpp
+	"Tdom.h"
+	<iostream>
+
+1683938643 source:c:\users\nadia\desktop\c++\lab8_klasyzaprzyjaznione\main.cpp
+	<iostream>
+	"Tdom.h"
+	"TpunktWKole.h"
+	<string>
+
+1683817070 c:\users\nadia\desktop\c++\lab8_klasyzaprzyjaznione\include\tdom.h
+	<iostream>
+	<string>
+
+1683817862 source:c:\users\nadia\desktop\c++\lab8_klasyzaprzyjaznione\src\tdom.cpp
+	"Tdom.h"
+	<iostream>
+
+1683938758 c:\users\nadia\desktop\c++\lab8_klasyzaprzyjaznione\include\tpunktwkole.h
+	<iostream>
+	<string>
+
+1683938758 source:c:\users\nadia\desktop\c++\lab8_klasyzaprzyjaznione\src\tpunktwkole.cpp
+	"TpunktWKole.h"
+	<iostream>
+	<string>
+
